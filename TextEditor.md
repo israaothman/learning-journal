@@ -5,7 +5,7 @@ a software on the computer or online that we use to write and manage text when w
 ## There is alot of types for Text editors and each one has somthing that specialized it 
 ### examples for text editors :
 - NotePad++ 
-![Image of NotePad++](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.m.wikipedia.org%2Fwiki%2F%25D9%2585%25D9%2584%25D9%2581%3ANotepad%252B%252B_Logo.svg&psig=AOvVaw2nqvBAXCnWkFbbSUtRMdkF&ust=1580737191935000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDV5Yv_sucCFQAAAAAdAAAAABAD)
+![Image of NotePad++](https://image.winudf.com/v2/image/bm9zb2Z0LmNvbS5ub3RlX3NjcmVlbnNob3RzXzEwXzIxOGY3NzVm/screen-10.jpg?fakeurl=1&type=.jpg)
 - TextWrangler/BB Edit
 - Visual Studio Code
 - Atom
