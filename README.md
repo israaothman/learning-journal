@@ -9,7 +9,7 @@ one hashtage for the largesr size and 6 hashtags for the smallest
 ### styling 
 there is some syntax for the text like if I want the text Bold I use two stars befor the text and another two after if 
 #### for example  **Bold** 
-and I can marge two of these syntax together 
+and I can marge two of these syntax together "speciale if you want the reader focuse on this word"
 #### for example 
 **Bold and _italic_**
 
