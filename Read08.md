@@ -14,14 +14,14 @@
  + =! it means **is not equal to**
  + === it means **stict equal to _(same vale same dataType)_**
  + !== it means **strict not equal to**
- + > **greater than**
+ + + ' > **greater than** '
  + < **less than** 
- + >= **greater than or equal**
+ + ' >= **greater than or equal** '
  + <= **less than or equal** 
 
  - logical operators :
   + && **and**
-  + || **or**
+  + '||' **or**
   + ! **not**
 
   ### loops
